@@ -1,0 +1,13 @@
+This is your generated report card
+
+Subject	Coefficient	Score	Mark
+
+Maths	    5	        14.0	70.0
+
+Physics	    2	         6.5	13.0
+
+Chem   	    2	        15.0	30.0
+
+Computer    4	        17.5	70.0
+
+Average: 14.076923076923077
